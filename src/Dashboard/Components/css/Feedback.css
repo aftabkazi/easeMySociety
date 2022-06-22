@@ -1,0 +1,36 @@
+.h1{
+    padding: 35px;
+    text-align: center;
+    margin: 45px;
+    border-radius: 20px;
+    border:2px solid grey;
+    background-color: orange;
+}
+.radio1{
+    /* border: 2px solid red; */
+    text-align: center;
+    margin: auto;
+    /* width: 100px; */
+
+}
+#category{
+    text-align: center;
+    /* margin: auto; */
+    font-size: 30px;
+    color: red;
+    text-decoration:solid;
+    font-weight: bold;
+}
+.radio2{
+    /* border:2px solid red; */
+    height:80px;
+    font-weight:bold;
+}
+.radio3{
+    font-weight: bold;
+}
+input{
+    /* color: white; */
+    font-weight: bold;
+    background-color:gray;
+}

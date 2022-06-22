@@ -1,0 +1,86 @@
+  .addinput
+  {
+    width: 2px;
+  }
+  
+  .div1Mserv{
+    position: relative;
+    bottom: 700px;
+  }
+  label1
+  {
+    text-decoration-line: underline;
+    text-size-adjust: 10px;
+    font-size: 20px;
+    font-weight: bold;
+  }
+  #profheading
+  {
+    text-align: center;
+    font-size: 40px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+  }
+  .profmaindiv
+  {
+   
+    /* background-image: url("../../public/shopbgimg.jpeg"); */
+    background-size: cover;
+    height: 100%;
+  }
+  
+
+  .labeldiv1
+  {
+    margin: 18px;
+    padding: 20px;
+    font-weight: bold;
+    position: relative;
+    left: 400px;
+  }
+  .monthservice
+  {
+    padding: 27px;
+    margin-left: 10px;
+    font-size: 25px;
+  }
+  .servicebut1
+  {
+   position: relative ;
+   left: 140px;
+  }
+  .servicebut2
+  {
+   position: relative ;
+   left: 46px;
+  }
+  .servicebut3
+  {
+   position: relative ;
+   left: 55px;
+  }
+  .servicebut4
+  {
+   position: relative ;
+   left: 142px;
+  }
+  .div1Mserv
+  {
+  height: 100%;
+  width: 100%;
+  }
+  .profsigninbtn{
+    position: relative;
+      left: 70px;
+      bottom: 19px;
+  }
+  .profform1
+  {
+    position: relative;
+    left: 70px;
+    
+  }
+
+  .backImgMserv{
+    height: 100%;
+    width: 100%;
+  }

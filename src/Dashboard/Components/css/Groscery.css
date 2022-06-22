@@ -1,0 +1,101 @@
+#grosheader{
+    margin-left: 0;
+    font-family: "Segoe UI", Arial, sans-serif;
+  
+    color: rgb(0, 0, 0);
+    background-color: aliceblue;
+    width: 80%;
+    position: relative;
+    left: 150px;
+    border-radius: 900px;
+  
+  
+  }
+  
+  .rateListbtn{
+    position: relative;
+    bottom: 0px;
+    top: 0px;
+  }
+  .custDetails
+  {
+    margin-left: 16px;
+    text-align: right;
+   
+  }
+  
+  .cusDetails{
+    position: relative;
+    top: 17px;
+  }
+  .grosout
+  {
+    left: 10px;
+    text-align: center;
+    margin-top: 3em;
+    padding-top: 10px;
+    position: relative;
+    bottom: 880px;
+   
+  }
+  .backgroundImg{ 
+    height: 100%;
+    width: 100%;
+    filter: blur(1);
+    position: relative;
+    bottom: 60px;
+    filter: blur(2.5px);
+    margin-top:60px; 
+    background-size: cover;
+  }
+  
+  .custdetail
+  {
+    text-align: right;
+    font-size: 1.3em;
+    font-style: bold;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  .txtarea{
+    height: 15em;
+    width: 17em;
+  }
+  
+  
+  .cusName{
+   
+    right:20px;
+   }
+  
+  .cusMobNo{
+   position: relative;
+   right:65px;
+  }
+  .cusFlatNo{
+    position: relative;
+   right: 50px; 
+  }
+  
+  .cusNameLable{
+    position: relative;
+    right: 34px ;
+    color: rgb(0, 0, 0);
+    background-color: rgb(231, 238, 238);
+    border-radius: 10px;
+    width: 5%;
+  }
+  .cusMobLable{
+    position: relative;
+    right:73px ;
+    background-color: rgb(231, 238, 238);
+    border-radius: 10px;
+    width: 12%;
+  }
+  
+  .cusFlatLable{
+    position: relative;
+    right:59px;
+    background-color: rgb(231, 238, 238);
+    border-radius: 10px;
+    width: 10%;
+  }

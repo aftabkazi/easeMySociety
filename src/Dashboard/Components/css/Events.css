@@ -1,0 +1,93 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  #body {
+    height: 100vh;
+    background: linear-gradient(to bottom, #1e5799 0%,#2989d8 50%,#7db9e8 100%);
+    padding: 0;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  #div {
+    font-size: 30px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  .header {
+    background-color: #F7D886;
+    height: 100px;
+    width: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+
+  }
+  
+  .footer {
+    background-color: #DCFABA;
+    height: 100px;
+    width: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  .main-area {
+    height: 800px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  .left-sidebar {
+    height: 100%;
+    width: 20%;
+    float: left;
+    background-color: #4294F8;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  .contents {
+    height: 100%;
+    width: 60%;
+    float: left;
+   
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  .right-sidebar {
+    width: 20%;
+    height: 100%;
+    float: right;
+    background-color: #8DD3FC;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  .horizontal-content {
+    background-color: rgb(93, 208, 236);
+    width: 300px;
+    padding: 15px;
+    margin: 10px;
+    border: 2 px solid black;
+    display: inline-block;
+  }
+
+  .div.horizontal-content img {
+    width: 355px;
+  }
+
+  .event-image {
+    color: #0066c0;
+    text-align: center;
+    width: 100%;
+  }
+
+  .notice{ 
+    /* width: 200px;
+    top: 0;
+    left: 0 */
+    animation-name: move-cloud1;
+    animation-duration: 16s;
+    animation-iteration-count:infinite;
+    animation-direction:reverse;
+  }
+  @keyframes move-cloud1 {
+    from { transform: translateY(0px); }
+    to { transform: translateY(400px);}
+  }

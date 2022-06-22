@@ -1,0 +1,27 @@
+.newsFeed{
+        /* height: 100%;
+        width: 20%;
+        float: left;
+        background-color: #4294F8;
+        font-family: Arial, Helvetica, sans-serif; */
+            /* width: 200px;
+            top: 0;
+            left: 0 */
+        animation-name: move-cloud1;
+            animation-duration: 10s;
+            animation-iteration-count:infinite;
+            animation-direction:reverse;
+            /* line-height: 200px; */
+        
+}
+.news{
+    height: 400px;
+    border: 2px solid black;
+    overflow: hidden;
+    
+    
+}
+@keyframes move-cloud1 {
+    from { transform: translateX(0px); }
+    to { transform: translateX(100px);}
+  }

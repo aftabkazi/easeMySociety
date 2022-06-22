@@ -1,0 +1,87 @@
+.main {
+    /* background: linear-gradient(120deg,#2980b9,#8e44ad); */
+    text-align: center;
+    justify-content: center;
+    display: flex; 
+    padding-top: 40px;
+    padding-bottom: 200px;
+    background-color: #e1e3eb;
+    min-height: 100%;
+    width: 100%;
+    overflow-y: hidden;
+  
+  }
+  .sub-main {
+    display: flex;
+    justify-content: center;
+    height: 460px;
+    width: 29%;
+    box-shadow: 3px 3px 3px 3px rgb(207, 207, 207);
+    padding-top: 30px;
+    border-radius: 70px; 
+    background-color: white;
+    position:relative;
+    top: 10px;
+    /* right: 20px; */
+    /* left: 30px; */
+  }
+  
+  
+  .imgs {
+      padding-top: 20px;
+      justify-content: center;
+      display: flex;
+    }
+  .container-image {
+    background-color: rgb(223, 221, 221); 
+    border-radius: 150px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    height: 115px;
+    width: 115px;
+  }
+.profile{
+    height: 115px;
+    width: 115px;
+    border-radius: 0px;
+  }
+.name{
+    padding-left: 30px;
+    font-size: 17px;
+    width: 250px;
+}
+.second-input{
+    padding-top: 15px;
+}
+.login-button{
+    padding-top: 25px;
+   
+}
+.link{
+    font-size: 15px;
+    font-weight: 400;
+}
+button{
+    width: 130px;
+    height: 40px;
+    border-radius: 60px;
+    background-color: #0d99eb;
+    color: white;
+    font-size: 20px;
+    border: none;
+}
+.profile {
+    height: 115px;
+    width: 115px;
+    border-radius: 0px;
+}
+.input_in_login{
+    width: 230px;
+    height: 50px;
+    border-radius: 60px;
+    box-shadow: inset 0px 0px 25px 0px rgb(195, 188, 188);
+    border: none;
+    outline: none;
+    background-color: #fff;
+}

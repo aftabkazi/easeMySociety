@@ -1,0 +1,30 @@
+.contactForm{
+    padding: 35px;
+    text-align: center;
+    margin: 45px;
+    border-radius: 20px;
+    border:2px solid grey;
+    background-color:aliceblue;
+}
+
+.contactForm label {
+    display:flexbox;
+    font-weight: bold;
+    flex-direction: column-reverse;
+    justify-content: flex-end;
+    text-align: center;
+    width: 100px;
+    line-height: 26px;
+    margin-bottom: 10px; 
+  }
+  .btn btn-primary{
+      text-align: center;
+  }
+ .contactForm input {
+    height: 30px;
+    flex: 0 0 200px;
+    margin-left: 10px;
+  }
+#submitbutton{
+    font-weight: bold;
+}
